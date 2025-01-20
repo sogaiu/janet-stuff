@@ -43,6 +43,9 @@ Reminders of some Janet notes and code
 * [jaylib-netrepl-demo](https://github.com/sogaiu/jaylib-netrepl-demo) -
   demo of using Jaylib with `spork/netrepl`
 
+* [jaylib-tetris](https://github.com/sogaiu/jaylib-tetris) - jaylib
+  port of raysan5's classics tetris code
+
 * [jaylib-wasm-demo](https://github.com/sogaiu/jaylib-wasm-demo) -
   demo of using Jaylib in a web browser via WASM
 
