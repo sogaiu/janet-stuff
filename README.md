@@ -17,7 +17,9 @@ Reminders of some Janet notes and code
 
 ## Notes
 
-* [janet-editor-and-tooling-info](https://github.com/sogaiu/janet-editor-and-tooling-info)
+* [janet-editor-and-tooling-info](https://github.com/sogaiu/janet-editor-and-tooling-info) -
+  mostly a collection of editor and tooling info for use with the
+  Janet programming language
 
 * [janet-examples](https://github.com/sogaiu/janet-examples)
 
