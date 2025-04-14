@@ -5,7 +5,7 @@ Reminders of some Janet notes and code
 * [Notes](#notes)
 * [Code](#code)
   * [Code Samples and Demos](#code-samples-and-demos)
-  * [Editor Trial Kits](#trial-kits)
+  * [Editor Trial Kits](#editor-trial-kits)
   * [Emacs](#emacs)
   * [Filesystem and Terminal](#filesystem-and-terminal)
   * [Janet Itself](#janet-itself)
