@@ -163,6 +163,9 @@ Reminders of some Janet notes and code
 * [jandent](https://github.com/sogaiu/jandent) - alternate indenter
   for Janet
 
+* [janet-aliases](https://github.com/sogaiu/janet-aliases) -
+  experiments in analyzing aliases in Janet source
+
 * [janet-bounds](https://github.com/sogaiu/janet-bounds) - determining
   bounds of things in strings of Janet source code
 
