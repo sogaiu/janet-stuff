@@ -9,6 +9,7 @@ Reminders of some Janet notes and code
   * [Emacs](#emacs)
   * [Filesystem and Terminal](#filesystem-and-terminal)
   * [Janet Itself](#janet-itself)
+  * [Misc](#misc)
   * [PEG](#peg)
   * [Protocols and Standards](#protocols-and-standards)
   * [Source Analysis, Generation, and Manipulation](#source-analysis-generation-and-manipulation)
@@ -109,6 +110,18 @@ Reminders of some Janet notes and code
   look up a definition for a Janet identifier via a command line
   program and display the results in an editor (can be used with shell
   completion for identifiers)
+
+### Misc
+
+* [janet-bits](https://github.com/sogaiu/janet-bits) - some bit and
+  buffer experiments
+
+* [janet-pcg-random](https://github.com/sogaiu/janet-pcg-random) -
+  wrapper around part of PCG Random
+
+* [janet-please](https://github.com/sogaiu/janet-please) - not too
+  successful experiments in trying to make it easier to reuse janet
+  scripts
 
 ### PEG
 
