@@ -160,6 +160,9 @@ Reminders of some Janet notes and code
 * [clojure-peg](https://github.com/sogaiu/clojure-peg) - parsing and
   generating Clojure via Janet's PEGs
 
+* [jackal](https://github.com/sogaiu/jackal) - query some Janet source
+  code for call information from the command line
+
 * [jandent](https://github.com/sogaiu/jandent) - alternate indenter
   for Janet
 
@@ -190,6 +193,12 @@ Reminders of some Janet notes and code
 
 * [janet-unwrap](https://github.com/sogaiu/janet-unwrap) - determining
   bounds for unwrapping forms in strings of Janet source code
+
+* [jargon](https://github.com/sogaiu/jargon/) - find and display Janet
+  definitions from the command line
+
+* [jog](https://github.com/sogaiu/jog) - view Janet project docstrings
+  from the command line
 
 * [review-janet](https://github.com/sogaiu/review-janet) - review
   (linting) tool for `.janet` code
