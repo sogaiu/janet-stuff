@@ -96,12 +96,12 @@ Reminders of some Janet notes and code
 ### Janet Itself
 
 * [index-janet](https://github.com/sogaiu/index-janet) - generate tags
-  / TAGS files for Janet's source code using universal ctags (used by
-  editors for features like "jump to definition")
+  / TAGS files for Janet's source code using PEGs (used by editors for
+  features like "jump to definition")
 
 * [index-janet-source](https://github.com/sogaiu/index-janet-source) -
-  generate tags / TAGS files for Janet's source code using PEGs (used
-  by editors for features like "jump to definition")
+  generate tags / TAGS files for Janet's source code using universal
+  ctags (used by editors for features like "jump to definition")
 
 * [jdoc](https://github.com/sogaiu/jdoc) - use janet's `doc` from the
   command line (can be used with shell completion for identifiers)
