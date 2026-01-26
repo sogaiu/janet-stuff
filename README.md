@@ -205,8 +205,13 @@ Reminders of some Janet notes and code
 
 ### Testing
 
-* [janet-ex-as-tests](https://github.com/sogaiu/janet-ex-as-tests) -
-  expressing examples or usages and reusing as tests
+* [niche](https://github.com/sogaiu/niche) - expressing examples or
+  usages and reusing as tests, "Nimbly Interpret Comment-Hidden
+  Expressions"
+
+* [quiche](https://github.com/sogaiu/quiche) - update expected values
+  for [niche](https://github.com/sogaiu/niche) tests, "Quaintly Update
+  Inadequate Comment-Hidden Expressions"
 
 * [janet-minipbt-translation](https://github.com/sogaiu/janet-minipbt-translation) -
   a translation into Janet of parts of MiniPBT (a series of articles
