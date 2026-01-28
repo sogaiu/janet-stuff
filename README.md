@@ -1,6 +1,6 @@
 # janet-stuff
 
-Reminders of some Janet notes and code
+Some notes and code for Janet
 
 * [Notes](#notes)
 * [Code](#code)
