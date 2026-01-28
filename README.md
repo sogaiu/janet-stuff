@@ -18,6 +18,8 @@ Some notes and code for Janet
 
 ## Notes
 
+* [janet-abstract-type-notes](https://github.com/sogaiu/janet-abstract-type-notes)
+
 * [janet-editor-and-tooling-info](https://github.com/sogaiu/janet-editor-and-tooling-info) -
   mostly a collection of editor and tooling info for use with the
   Janet programming language
