@@ -39,10 +39,6 @@ Reminders of some Janet notes and code
 * [git-some-janets](https://github.com/sogaiu/git-some-janets) - tool
   to retrieve various Janet repositories
 
-* [janet-ref](https://github.com/sogaiu/janet-ref) - doc and source
-  lookups of Janet itself, core lib samples and quizzes, and then
-  some... (can be used with shell completion for identifiers)
-
 * [jaylib-netrepl-demo](https://github.com/sogaiu/jaylib-netrepl-demo) -
   demo of using Jaylib with `spork/netrepl`
 
@@ -51,6 +47,10 @@ Reminders of some Janet notes and code
 
 * [jaylib-wasm-demo](https://github.com/sogaiu/jaylib-wasm-demo) -
   demo of using Jaylib in a web browser via WASM
+
+* [jref](https://github.com/sogaiu/jref) - doc and source lookups of
+  Janet itself, core lib samples and quizzes, and then some... (can be
+  used with shell completion for identifiers)
 
 * [spork-http-sample](https://github.com/sogaiu/spork-http-sample) -
   simple Janet `spork/http` samples
@@ -125,12 +125,11 @@ Reminders of some Janet notes and code
 
 ### PEG
 
-* [janet-pegdoc](https://github.com/sogaiu/janet-pegdoc) - doc,
-  examples, and quizzes for Janet's PEGs (can be used with shell
-  completion for identifiers)
-
 * [margaret](https://github.com/sogaiu/margaret) - `peg/match`
   implemented in Janet (along with PEG examples and tutorial material)
+
+* [pdoc](https://github.com/sogaiu/pdoc) - doc, examples, and quizzes
+  for Janet's PEGs (can be used with shell completion for identifiers)
 
 * [small-peg-tracer](https://github.com/sogaiu/small-peg-tracer) -
   trace and view simulated execution of Janet's `peg/match`
