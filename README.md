@@ -161,6 +161,9 @@ Some notes and code for Janet
 * [clojure-peg](https://github.com/sogaiu/clojure-peg) - parsing and
   generating Clojure via Janet's PEGs
 
+* [dalimit](https://github.com/sogaiu/dalimit) - some functions for
+  working with delimiters in fragments of Janet source code
+
 * [jackal](https://github.com/sogaiu/jackal) - query some Janet source
   code for call information from the command line
 
@@ -173,15 +176,8 @@ Some notes and code for Janet
 * [janet-bounds](https://github.com/sogaiu/janet-bounds) - determining
   bounds of things in strings of Janet source code
 
-* [janet-delims](https://github.com/sogaiu/janet-delims) - some
-  functions for working with delimiters in fragments of Janet source
-  code
-
 * [janet-indent](https://github.com/sogaiu/janet-indent) - indenting a
   line or region of Janet source code
-
-* [janet-last-expression](https://github.com/sogaiu/janet-last-expression) -
-  determining the last expression in a fragment of Janet source code
 
 * [janet-location-zipper](https://github.com/sogaiu/janet-location-zipper) - zipper for Janet source
 
@@ -200,6 +196,9 @@ Some notes and code for Janet
 
 * [jog](https://github.com/sogaiu/jog) - view Janet project docstrings
   from the command line
+
+* [lastly](https://github.com/sogaiu/lastly) - determining the last
+  expression in a fragment of Janet source code
 
 * [review-janet](https://github.com/sogaiu/review-janet) - review
   (linting) tool for `.janet` code
