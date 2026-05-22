@@ -196,6 +196,8 @@ Some notes and code for Janet
 * [jargon](https://github.com/sogaiu/jargon/) - find and display Janet
   definitions from the command line
 
+* [jdcheck](https://github.com/sogaiu/jdcheck) - check Janet docstrings
+
 * [jog](https://github.com/sogaiu/jog) - view Janet project docstrings
   from the command line
 
