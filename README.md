@@ -117,6 +117,10 @@ Some notes and code for Janet
 
 ### Misc
 
+* [gather](https://github.com/sogaiu/gather) - vendor bits according
+  to `info.jdn`'s `:vendored` section - a repackaging of a part of
+  [jeep](https://github.com/pyrmont/jeep)
+
 * [janet-bits](https://github.com/sogaiu/janet-bits) - some bit and
   buffer experiments
 
