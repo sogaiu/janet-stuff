@@ -124,7 +124,7 @@ Some notes and code for Janet
 * [janet-bits](https://github.com/sogaiu/janet-bits) - some bit and
   buffer experiments
 
-* [janet-pcg-random](https://github.com/sogaiu/janet-pcg-random) -
+* [pcgrand](https://github.com/sogaiu/pcgrand) -
   wrapper around part of PCG Random
 
 * [janet-please](https://github.com/sogaiu/janet-please) - not too
